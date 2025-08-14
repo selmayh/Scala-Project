@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\target\scala-2.13\hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Book.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\target\scala-2.13\classes\Book.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Borrowable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\target\scala-2.13\classes\Borrowable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Comic.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\target\scala-2.13\classes\Comic.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Document$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\target\scala-2.13\classes\Document$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Document.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\target\scala-2.13\classes\Document.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Library.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\target\scala-2.13\classes\Library.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Magazine.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\target\scala-2.13\classes\Magazine.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\target\scala-2.13\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\target\scala-2.13\classes\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\target\scala-2.13\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\target\scala-2.13\classes\User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\target\scala-2.13\classes\User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,712 @@
+2025.08.11 16:51:09 INFO  Started: Metals version 1.6.2 in folders 'C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala' for client Visual Studio Code 1.103.0.
+2025.08.11 16:51:10 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:12 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:18 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:18 INFO  running 'C:\Users\SelmaYAHIOUNE\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17.0.15%252B6\OpenJDK17U-jdk_x64_windows_hotspot_17.0.15_6.zip\jdk-17.0.15+6\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\SELMAY~1\AppData\Local\Temp\metals11096996249452568848\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.08.11 16:51:21 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:21 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:23 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:23 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:25 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:25 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:29 INFO  [info] welcome to sbt 1.11.3 (Eclipse Adoptium Java 17.0.15)
+2025.08.11 16:51:32 INFO  [info] loading settings for project tp2-scala-build-build from metals.sbt...
+2025.08.11 16:51:33 INFO  [info] loading project definition from C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\project\project
+2025.08.11 16:51:39 INFO  [info] loading settings for project tp2-scala-build from metals.sbt...
+2025.08.11 16:51:39 INFO  [info] loading project definition from C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\project
+2025.08.11 16:51:46 INFO  [success] Generated .bloop\tp2-scala-build.json
+2025.08.11 16:51:46 INFO  [success] Total time: 7 s, completed 11 ao没t 2025, 16:51:47
+2025.08.11 16:51:50 INFO  [info] loading settings for project tp2-scala from build.sbt...
+2025.08.11 16:51:50 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:50 INFO  [info] set current project to hello-world (in build file:/C:/Users/SelmaYAHIOUNE/Documents/TP2SCALA/tp2-scala/)
+2025.08.11 16:51:50 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:51 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:51 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:51 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:51 INFO  [success] Generated .bloop\tp2-scala.json
+2025.08.11 16:51:51 INFO  [success] Generated .bloop\tp2-scala-test.json
+2025.08.11 16:51:51 INFO  [success] Total time: 1 s, completed 11 ao没t 2025, 16:51:51
+2025.08.11 16:51:51 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:52 INFO  time: ran 'sbt bloopInstall' in 33s
+2025.08.11 16:51:52 INFO  Attempting to connect to the build server...
+2025.08.11 16:51:52 INFO  Found a Bloop server running
+2025.08.11 16:51:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\.metals\bsp.trace.json or C:\Users\SelmaYAHIOUNE\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.11 16:51:53 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:53 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:53 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:53 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:53 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:54 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:54 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:54 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:54 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:54 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:54 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:54 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:55 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:55 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:55 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:55 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.11 16:51:57 INFO  Attempting to connect to the build server...
+2025.08.11 16:51:57 INFO  Found a Bloop server running
+2025.08.11 16:51:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\project\.metals\bsp.trace.json or C:\Users\SelmaYAHIOUNE\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.11 16:51:57 INFO  time: Connected to build server in 5.31s
+2025.08.11 16:51:57 INFO  Connected to Build server: Bloop v2.0.13
+2025.08.11 16:51:57 INFO  time: Imported build in 0.1s
+2025.08.11 16:51:57 WARN  2.13.12 is no longer supported in the current Metals versions, using the last known supported version 1.4.2
+2025.08.11 16:52:25 INFO  time: indexed workspace in 27s
+2025.08.11 16:52:25 INFO  compiling tp2-scala (1 scala source)
+2025.08.11 16:52:32 INFO  time: compiled tp2-scala in 7.04s
+2025.08.11 16:54:09 INFO  running 'C:\Users\SelmaYAHIOUNE\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17.0.15%252B6\OpenJDK17U-jdk_x64_windows_hotspot_17.0.15_6.zip\jdk-17.0.15+6\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\SELMAY~1\AppData\Local\Temp\metals3483357617813516669\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.08.11 16:54:11 INFO  [info] welcome to sbt 1.11.3 (Eclipse Adoptium Java 17.0.15)
+2025.08.11 16:54:12 INFO  [info] loading settings for project tp2-scala-build-build from metals.sbt...
+2025.08.11 16:54:13 INFO  [info] loading project definition from C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\project\project
+2025.08.11 16:54:14 INFO  [info] loading settings for project tp2-scala-build from metals.sbt...
+2025.08.11 16:54:14 INFO  [info] loading project definition from C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\project
+2025.08.11 16:54:17 INFO  [success] Generated .bloop\tp2-scala-build.json
+2025.08.11 16:54:17 INFO  [success] Total time: 3 s, completed 11 ao没t 2025, 16:54:18
+2025.08.11 16:54:20 INFO  [info] loading settings for project tp2-scala from build.sbt...
+2025.08.11 16:54:20 INFO  [info] set current project to hello-world (in build file:/C:/Users/SelmaYAHIOUNE/Documents/TP2SCALA/tp2-scala/)
+2025.08.11 16:54:20 INFO  [success] Generated .bloop\tp2-scala.json
+2025.08.11 16:54:20 INFO  [success] Generated .bloop\tp2-scala-test.json
+2025.08.11 16:54:20 INFO  [success] Total time: 1 s, completed 11 ao没t 2025, 16:54:21
+2025.08.11 16:54:21 INFO  time: ran 'sbt bloopInstall' in 12s
+2025.08.11 16:54:21 INFO  Disconnecting from Bloop session...
+2025.08.11 16:54:21 INFO  Shut down connection with build server.
+2025.08.11 16:54:21 INFO  Shut down connection with build server.
+2025.08.11 16:54:21 INFO  Attempting to connect to the build server...
+2025.08.11 16:54:21 INFO  Found a Bloop server running
+2025.08.11 16:54:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\.metals\bsp.trace.json or C:\Users\SelmaYAHIOUNE\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.11 16:54:21 INFO  Attempting to connect to the build server...
+2025.08.11 16:54:21 INFO  Found a Bloop server running
+2025.08.11 16:54:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\project\.metals\bsp.trace.json or C:\Users\SelmaYAHIOUNE\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.11 16:54:21 INFO  time: Connected to build server in 0.41s
+2025.08.11 16:54:21 INFO  Connected to Build server: Bloop v2.0.13
+2025.08.11 16:54:25 INFO  time: indexed workspace in 3.01s
+2025.08.11 16:54:25 INFO  compiling tp2-scala (1 scala source)
+ao鹴 11, 2025 4:54:25 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFOS: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.08.11 16:54:25 INFO  Created report: Optional[file:///c:/Users/SelmaYAHIOUNE/Documents/TP2SCALA/tp2-scala/Main.scala]
+2025.08.11 16:54:25 INFO  java.lang.AssertionError: assertion failed: (List(Stamp(2025-07-05T19:51:15Z,2998901,null)),0) (full report at: "C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\.metals\.reports\metals-full\2025-08-11\r_compiler-error_16-54-25-145.md")
+2025.08.11 16:54:25 INFO  time: compiled tp2-scala in 0.92s
+ao鹴 11, 2025 4:56:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 403
+ao鹴 11, 2025 4:56:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 412
+ao鹴 11, 2025 4:56:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 410
+ao鹴 11, 2025 4:56:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 414
+ao鹴 11, 2025 4:56:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 417
+ao鹴 11, 2025 4:56:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 461
+ao鹴 11, 2025 4:56:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 463
+ao鹴 11, 2025 5:07:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 563
+ao鹴 11, 2025 5:08:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 761
+2025.08.11 17:09:08 INFO  compiling tp2-scala (1 scala source)
+2025.08.11 17:09:08 INFO  time: compiled tp2-scala in 0.25s
+2025.08.11 17:09:20 INFO  compiling tp2-scala (1 scala source)
+2025.08.11 17:09:20 INFO  time: compiled tp2-scala in 0.25s
+2025.08.11 17:10:20 INFO  compiling tp2-scala (1 scala source)
+2025.08.11 17:10:20 INFO  time: compiled tp2-scala in 0.16s
+2025.08.11 17:11:01 INFO  compiling tp2-scala (1 scala source)
+2025.08.11 17:11:01 INFO  time: compiled tp2-scala in 0.93s
+2025.08.11 17:12:58 INFO  compiling tp2-scala (1 scala source)
+2025.08.11 17:13:00 INFO  time: compiled tp2-scala in 1.27s
+2025.08.11 17:15:23 INFO  compiling tp2-scala (1 scala source)
+2025.08.11 17:15:23 INFO  time: compiled tp2-scala in 0.23s
+ao鹴 11, 2025 5:15:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1480
+2025.08.11 17:15:32 INFO  compiling tp2-scala (1 scala source)
+2025.08.11 17:15:33 INFO  time: compiled tp2-scala in 1.04s
+ao鹴 11, 2025 5:17:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1783
+ao鹴 11, 2025 5:19:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2146
+ao鹴 11, 2025 5:19:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2185
+ao鹴 11, 2025 5:19:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2190
+ao鹴 11, 2025 5:24:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3055
+ao鹴 11, 2025 5:24:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3083
+ao鹴 11, 2025 5:25:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3344
+ao鹴 11, 2025 5:25:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3354
+2025.08.11 17:25:11 INFO  compiling tp2-scala (1 scala source)
+2025.08.11 17:25:11 INFO  time: compiled tp2-scala in 0.39s
+ao鹴 11, 2025 5:26:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3634
+ao鹴 11, 2025 5:26:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3644
+ao鹴 11, 2025 5:27:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3903
+2025.08.11 17:27:49 INFO  compiling tp2-scala (1 scala source)
+2025.08.11 17:27:49 INFO  time: compiled tp2-scala in 0.38s
+ao鹴 11, 2025 5:28:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 4076
+ao鹴 11, 2025 5:30:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 4149
+2025.08.11 17:35:52 INFO  compiling tp2-scala (1 scala source)
+2025.08.11 17:35:55 INFO  time: compiled tp2-scala in 2.55s
+2025.08.11 17:36:57 INFO  compiling tp2-scala (1 scala source)
+2025.08.11 17:36:59 INFO  time: compiled tp2-scala in 2s
+ao鹴 11, 2025 5:37:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 4635
+2025.08.11 17:38:02 INFO  compiling tp2-scala (1 scala source)
+2025.08.11 17:38:03 INFO  time: compiled tp2-scala in 1.08s
+ao鹴 11, 2025 5:38:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2025.08.11 17:43:49 INFO  compiling tp2-scala (1 scala source)
+2025.08.11 17:43:50 INFO  time: compiled tp2-scala in 1.31s
+2025.08.11 17:45:21 INFO  Shutting down server
+2025.08.11 17:45:21 INFO  shutting down Metals
+2025.08.11 17:45:21 INFO  Shut down connection with build server.
+2025.08.11 17:45:21 INFO  Shut down connection with build server.
+2025.08.11 17:45:21 INFO  Exiting server
+2025.08.12 10:23:55 INFO  Started: Metals version 1.6.2 in folders 'C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala' for client Visual Studio Code 1.103.0.
+2025.08.12 10:23:56 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:23:56 INFO  Attempting to connect to the build server...
+2025.08.12 10:23:56 INFO  No running Bloop server found, starting one.
+2025.08.12 10:24:00 INFO  Starting compilation server
+2025.08.12 10:24:01 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:01 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:01 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+ao鹴 12, 2025 10:24:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 6
+2025.08.12 10:24:01 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:01 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:01 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:01 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:01 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:01 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:01 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:01 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+ao鹴 12, 2025 10:24:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 19
+2025.08.12 10:24:02 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:03 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:04 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:04 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:05 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:05 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:07 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:07 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:07 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:08 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:08 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\.metals\bsp.trace.json or C:\Users\SelmaYAHIOUNE\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.12 10:24:09 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:09 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:09 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:10 INFO  Attempting to connect to the build server...
+2025.08.12 10:24:10 INFO  Found a Bloop server running
+2025.08.12 10:24:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\project\.metals\bsp.trace.json or C:\Users\SelmaYAHIOUNE\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.12 10:24:10 INFO  time: Connected to build server in 13s
+2025.08.12 10:24:10 INFO  Connected to Build server: Bloop v2.0.13
+2025.08.12 10:24:10 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.12 10:24:10 INFO  time: Imported build in 0.19s
+2025.08.12 10:24:18 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 10:24:23 INFO  time: compiled tp2-scala in 5.91s
+2025.08.12 10:24:32 INFO  time: indexed workspace in 21s
+2025.08.12 11:03:47 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 11:03:47 INFO  time: compiled tp2-scala in 0.42s
+2025.08.12 11:03:57 INFO  time: compiled tp2-scala in 8ms
+2025.08.12 11:04:23 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 11:04:24 INFO  time: compiled tp2-scala in 1.61s
+2025.08.12 11:07:21 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 11:07:23 INFO  time: compiled tp2-scala in 1.27s
+ao鹴 12, 2025 11:10:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 388
+2025.08.12 11:12:18 INFO  Created report: Optional[file:///C:/Users/SelmaYAHIOUNE/Documents/TP2SCALA/tp2-scala/src/main/scala/Main.scala]
+2025.08.12 11:12:18 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\.metals\.reports\metals-full\2025-08-12\r_empty-definition_(tp2-scala)_11-12-18-950.md")
+2025.08.12 11:12:19 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\.metals\.reports\metals-full\2025-08-12\r_empty-definition_(tp2-scala)_11-12-18-950.md")
+ao鹴 12, 2025 11:12:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 651
+ao鹴 12, 2025 11:13:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1025
+ao鹴 12, 2025 11:32:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1681
+ao鹴 12, 2025 11:33:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2113
+ao鹴 12, 2025 11:33:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2330
+ao鹴 12, 2025 11:33:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2495
+ao鹴 12, 2025 11:34:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2555
+2025.08.12 11:35:39 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 11:35:39 INFO  time: compiled tp2-scala in 0.31s
+ao鹴 12, 2025 11:36:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2810
+ao鹴 12, 2025 11:40:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3378
+2025.08.12 11:47:57 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 11:47:57 INFO  time: compiled tp2-scala in 0.12s
+2025.08.12 11:48:10 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 11:48:10 INFO  time: compiled tp2-scala in 0.1s
+2025.08.12 11:48:31 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 11:48:31 INFO  time: compiled tp2-scala in 0.24s
+2025.08.12 11:49:04 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 11:49:04 INFO  time: compiled tp2-scala in 0.21s
+2025.08.12 11:49:18 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 11:49:18 INFO  time: compiled tp2-scala in 93ms
+2025.08.12 11:49:40 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 11:49:40 INFO  time: compiled tp2-scala in 0.1s
+2025.08.12 11:49:53 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 11:49:53 INFO  time: compiled tp2-scala in 0.2s
+2025.08.12 11:53:30 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 11:53:30 INFO  time: compiled tp2-scala in 0.22s
+ao鹴 12, 2025 11:53:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 5616
+2025.08.12 11:54:03 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 11:54:03 INFO  time: compiled tp2-scala in 0.2s
+2025.08.12 14:23:14 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 14:23:14 INFO  time: compiled tp2-scala in 0.29s
+2025.08.12 14:31:20 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 14:31:20 INFO  time: compiled tp2-scala in 0.19s
+ao鹴 12, 2025 2:31:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 5963
+2025.08.12 14:31:38 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 14:31:39 INFO  time: compiled tp2-scala in 1.15s
+ao鹴 12, 2025 2:32:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 6109
+ao鹴 12, 2025 2:33:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 6290
+2025.08.12 14:36:16 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 14:36:17 INFO  time: compiled tp2-scala in 1.14s
+ao鹴 12, 2025 2:40:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7163
+ao鹴 12, 2025 2:42:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7588
+2025.08.12 14:44:27 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 14:44:30 INFO  time: compiled tp2-scala in 2.17s
+2025.08.12 14:45:05 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 14:45:07 INFO  time: compiled tp2-scala in 1.8s
+2025.08.12 14:45:31 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 14:45:32 INFO  time: compiled tp2-scala in 1.37s
+ao鹴 12, 2025 2:47:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 8238
+ao鹴 12, 2025 2:48:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 8471
+ao鹴 12, 2025 2:48:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 8551
+ao鹴 12, 2025 2:48:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 8559
+ao鹴 12, 2025 3:07:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 8728
+ao鹴 12, 2025 3:07:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 8735
+ao鹴 12, 2025 3:07:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 8771
+ao鹴 12, 2025 3:07:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 8790
+ao鹴 12, 2025 3:07:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 8797
+ao鹴 12, 2025 3:07:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 8872
+2025.08.12 15:07:37 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\.metals\.reports\metals-full\2025-08-12\r_empty-definition_(tp2-scala)_11-12-18-950.md")
+ao鹴 12, 2025 3:08:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 9267
+2025.08.12 15:09:22 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 15:09:22 INFO  time: compiled tp2-scala in 0.22s
+2025.08.12 15:09:59 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 15:10:00 INFO  time: compiled tp2-scala in 1.65s
+ao鹴 12, 2025 3:14:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 9998
+ao鹴 12, 2025 3:14:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 10063
+ao鹴 12, 2025 3:14:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 10121
+ao鹴 12, 2025 3:14:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 10123
+ao鹴 12, 2025 3:14:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 10124
+ao鹴 12, 2025 3:14:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 10125
+ao鹴 12, 2025 3:14:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 10126
+ao鹴 12, 2025 3:14:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 10127
+ao鹴 12, 2025 3:14:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 10128
+ao鹴 12, 2025 3:14:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 10130
+ao鹴 12, 2025 3:14:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 10132
+ao鹴 12, 2025 3:14:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 10138
+2025.08.12 15:20:59 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 15:20:59 INFO  time: compiled tp2-scala in 0.32s
+2025.08.12 15:22:31 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 15:22:31 INFO  time: compiled tp2-scala in 0.2s
+2025.08.12 15:23:19 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 15:23:20 INFO  time: compiled tp2-scala in 1.47s
+2025.08.12 15:26:15 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 15:26:17 INFO  time: compiled tp2-scala in 1.33s
+2025.08.12 15:26:20 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 15:26:22 INFO  time: compiled tp2-scala in 1.39s
+2025.08.12 15:26:29 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 15:26:30 INFO  time: compiled tp2-scala in 1.19s
+2025.08.12 15:26:32 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 15:26:33 INFO  time: compiled tp2-scala in 1.33s
+2025.08.12 15:27:02 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\.metals\.reports\metals-full\2025-08-12\r_empty-definition_(tp2-scala)_11-12-18-950.md")
+2025.08.12 15:31:27 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 15:31:29 INFO  time: compiled tp2-scala in 1.35s
+2025.08.12 15:32:51 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 15:32:52 INFO  time: compiled tp2-scala in 1.19s
+2025.08.12 15:34:44 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 15:34:45 INFO  time: compiled tp2-scala in 1.5s
+ao鹴 12, 2025 3:37:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 12567
+ao鹴 12, 2025 3:37:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 12690
+ao鹴 12, 2025 3:38:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 12816
+ao鹴 12, 2025 3:38:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 12920
+ao鹴 12, 2025 3:39:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 13053
+2025.08.12 15:39:28 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 15:39:28 INFO  time: compiled tp2-scala in 0.22s
+2025.08.12 15:39:46 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 15:39:47 INFO  time: compiled tp2-scala in 1.46s
+ao鹴 12, 2025 3:42:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 13551
+ao鹴 12, 2025 3:42:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 13806
+2025.08.12 15:42:54 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 15:42:55 INFO  time: compiled tp2-scala in 1.47s
+2025.08.12 16:01:02 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 16:01:03 INFO  time: compiled tp2-scala in 1.62s
+ao鹴 12, 2025 4:41:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 14473
+ao鹴 12, 2025 4:41:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 14478
+ao鹴 12, 2025 4:41:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 14500
+ao鹴 12, 2025 4:41:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 14542
+ao鹴 12, 2025 4:41:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 14588
+ao鹴 12, 2025 4:41:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 14604
+ao鹴 12, 2025 4:55:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 14812
+ao鹴 12, 2025 4:59:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 15024
+2025.08.12 16:59:44 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 16:59:46 INFO  time: compiled tp2-scala in 1.71s
+2025.08.12 17:05:30 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 17:05:31 INFO  time: compiled tp2-scala in 1.25s
+ao鹴 12, 2025 5:10:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 15452
+2025.08.12 17:10:10 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 17:10:11 INFO  time: compiled tp2-scala in 1.47s
+ao鹴 12, 2025 5:11:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 15579
+2025.08.12 17:12:04 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 17:12:05 INFO  time: compiled tp2-scala in 1.49s
+ao鹴 12, 2025 5:13:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 15710
+2025.08.12 17:18:15 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 17:18:16 INFO  time: compiled tp2-scala in 1.35s
+2025.08.12 17:33:10 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 17:33:11 INFO  time: compiled tp2-scala in 1.52s
+2025.08.12 17:33:43 INFO  compiling tp2-scala (1 scala source)
+2025.08.12 17:33:45 INFO  time: compiled tp2-scala in 1.37s
+2025.08.12 17:41:07 INFO  Shutting down server
+2025.08.12 17:41:07 INFO  shutting down Metals
+2025.08.12 17:41:07 INFO  Shut down connection with build server.
+2025.08.12 17:41:07 INFO  Shut down connection with build server.
+2025.08.12 17:41:07 INFO  Exiting server
+2025.08.13 14:06:44 INFO  Started: Metals version 1.6.2 in folders 'C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala' for client Visual Studio Code 1.103.0.
+2025.08.13 14:06:47 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.13 14:06:54 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.13 14:06:55 INFO  Attempting to connect to the build server...
+2025.08.13 14:06:55 INFO  No running Bloop server found, starting one.
+2025.08.13 14:07:04 INFO  Starting compilation server
+2025.08.13 14:07:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\.metals\bsp.trace.json or C:\Users\SelmaYAHIOUNE\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.13 14:07:17 INFO  Attempting to connect to the build server...
+2025.08.13 14:07:17 INFO  Found a Bloop server running
+2025.08.13 14:07:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\project\.metals\bsp.trace.json or C:\Users\SelmaYAHIOUNE\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.13 14:07:17 INFO  time: Connected to build server in 22s
+2025.08.13 14:07:17 INFO  Connected to Build server: Bloop v2.0.13
+2025.08.13 14:07:18 INFO  time: Imported build in 0.33s
+2025.08.13 14:07:45 INFO  time: indexed workspace in 27s
+ao鹴 13, 2025 2:13:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 109
+2025.08.13 14:13:22 INFO  compiling tp2-scala (1 scala source)
+2025.08.13 14:13:28 INFO  time: compiled tp2-scala in 5.56s
+ao鹴 13, 2025 2:16:25 PM scala.meta.internal.pc.CompletionProvider expected$1
+AVERTISSEMENT: offset 5793, count -1, length 6030
+ao鹴 13, 2025 2:16:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 438
+2025.08.13 14:16:35 INFO  compiling tp2-scala (1 scala source)
+2025.08.13 14:16:37 INFO  time: compiled tp2-scala in 2.52s
+2025.08.13 14:52:54 INFO  Shutting down server
+2025.08.13 14:52:54 INFO  shutting down Metals
+2025.08.13 14:52:55 INFO  Shut down connection with build server.
+2025.08.13 14:52:55 INFO  Shut down connection with build server.
+2025.08.13 14:52:54 INFO  Exiting server
+2025.08.13 15:27:16 INFO  Started: Metals version 1.6.2 in folders 'C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala' for client Visual Studio Code 1.103.0.
+2025.08.13 15:27:18 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.13 15:27:22 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.13 15:27:22 INFO  Attempting to connect to the build server...
+2025.08.13 15:27:22 INFO  Found a Bloop server running
+2025.08.13 15:27:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\.metals\bsp.trace.json or C:\Users\SelmaYAHIOUNE\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.13 15:27:22 INFO  Attempting to connect to the build server...
+2025.08.13 15:27:22 INFO  Found a Bloop server running
+2025.08.13 15:27:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\project\.metals\bsp.trace.json or C:\Users\SelmaYAHIOUNE\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.13 15:27:22 INFO  time: Connected to build server in 0.55s
+2025.08.13 15:27:22 INFO  Connected to Build server: Bloop v2.0.13
+2025.08.13 15:27:22 INFO  time: Imported build in 0.11s
+2025.08.13 15:27:38 INFO  time: indexed workspace in 14s
+ao鹴 13, 2025 3:54:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2025.08.13 16:00:45 INFO  Shutting down server
+2025.08.13 16:00:45 INFO  shutting down Metals
+2025.08.13 16:00:45 INFO  Shut down connection with build server.
+2025.08.13 16:00:45 INFO  Shut down connection with build server.
+2025.08.13 16:00:45 INFO  Exiting server
+2025.08.13 17:14:36 INFO  Started: Metals version 1.6.2 in folders 'C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala' for client Visual Studio Code 1.103.0.
+2025.08.13 17:14:38 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.13 17:14:40 INFO  Attempting to connect to the build server...
+2025.08.13 17:14:40 INFO  Found a Bloop server running
+2025.08.13 17:14:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\.metals\bsp.trace.json or C:\Users\SelmaYAHIOUNE\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.13 17:14:41 INFO  Attempting to connect to the build server...
+2025.08.13 17:14:41 INFO  Found a Bloop server running
+2025.08.13 17:14:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\project\.metals\bsp.trace.json or C:\Users\SelmaYAHIOUNE\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.13 17:14:40 INFO  time: Connected to build server in 1.12s
+2025.08.13 17:14:41 INFO  Connected to Build server: Bloop v2.0.13
+2025.08.13 17:14:42 INFO  time: Imported build in 0.41s
+2025.08.13 17:14:50 INFO  time: indexed workspace in 8.06s
+ao鹴 13, 2025 5:22:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 78
+ao鹴 13, 2025 5:22:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 93
+2025.08.13 17:32:06 INFO  compiling tp2-scala (1 scala source)
+2025.08.13 17:32:09 INFO  time: compiled tp2-scala in 2.18s
+ao鹴 13, 2025 5:40:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1023
+ao鹴 13, 2025 5:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1175
+ao鹴 13, 2025 5:47:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1735
+2025.08.13 17:47:20 INFO  compiling tp2-scala (1 scala source)
+2025.08.13 17:47:21 INFO  time: compiled tp2-scala in 1.44s
+2025.08.13 17:47:28 INFO  compiling tp2-scala (1 scala source)
+2025.08.13 17:47:30 INFO  time: compiled tp2-scala in 1.71s
+2025.08.13 17:54:22 INFO  Shutting down server
+2025.08.13 17:54:22 INFO  shutting down Metals
+2025.08.13 17:54:22 INFO  Shut down connection with build server.
+2025.08.13 17:54:22 INFO  Shut down connection with build server.
+2025.08.13 17:54:22 INFO  Exiting server
+2025.08.14 09:46:32 INFO  Started: Metals version 1.6.2 in folders 'C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala' for client Visual Studio Code 1.103.0.
+2025.08.14 09:46:34 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.14 09:46:39 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.14 09:46:39 INFO  Attempting to connect to the build server...
+2025.08.14 09:46:39 INFO  No running Bloop server found, starting one.
+2025.08.14 09:46:42 INFO  Starting compilation server
+2025.08.14 09:46:47 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.14 09:46:49 INFO  no build target found for C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.14 09:46:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\.metals\bsp.trace.json or C:\Users\SelmaYAHIOUNE\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.14 09:46:53 INFO  Attempting to connect to the build server...
+2025.08.14 09:46:53 INFO  Found a Bloop server running
+2025.08.14 09:46:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SelmaYAHIOUNE\Documents\TP2SCALA\tp2-scala\project\.metals\bsp.trace.json or C:\Users\SelmaYAHIOUNE\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.14 09:46:53 INFO  time: Connected to build server in 14s
+2025.08.14 09:46:53 INFO  Connected to Build server: Bloop v2.0.13
+2025.08.14 09:46:53 INFO  time: Imported build in 0.3s
+2025.08.14 09:47:18 INFO  time: indexed workspace in 24s
+2025.08.14 09:51:13 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 09:51:21 INFO  time: compiled tp2-scala in 7.58s
+ao鹴 14, 2025 9:55:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 900
+ao鹴 14, 2025 9:55:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 912
+2025.08.14 10:04:49 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 10:04:52 INFO  time: compiled tp2-scala in 2.71s
+2025.08.14 10:06:11 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 10:06:14 INFO  time: compiled tp2-scala in 2.27s
+2025.08.14 10:07:31 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 10:07:34 INFO  time: compiled tp2-scala in 2.23s
+ao鹴 14, 2025 10:11:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2155
+ao鹴 14, 2025 10:12:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2189
+2025.08.14 10:13:51 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 10:13:53 INFO  time: compiled tp2-scala in 1.8s
+2025.08.14 10:21:07 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 10:21:09 INFO  time: compiled tp2-scala in 2.89s
+2025.08.14 10:30:13 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 10:30:14 INFO  time: compiled tp2-scala in 1.8s
+ao鹴 14, 2025 10:31:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3314
+ao鹴 14, 2025 10:31:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3409
+ao鹴 14, 2025 10:32:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3533
+2025.08.14 10:32:13 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 10:32:15 INFO  time: compiled tp2-scala in 1.62s
+2025.08.14 10:33:14 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 10:33:16 INFO  time: compiled tp2-scala in 1.81s
+2025.08.14 10:34:19 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 10:34:21 INFO  time: compiled tp2-scala in 1.97s
+2025.08.14 10:35:25 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 10:35:27 INFO  time: compiled tp2-scala in 1.53s
+2025.08.14 10:38:01 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 10:38:03 INFO  time: compiled tp2-scala in 1.74s
+2025.08.14 10:57:58 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 10:57:59 INFO  time: compiled tp2-scala in 1.74s
+2025.08.14 10:58:39 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 10:58:40 INFO  time: compiled tp2-scala in 1.81s
+ao鹴 14, 2025 10:58:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 4319
+2025.08.14 11:16:12 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 11:16:14 INFO  time: compiled tp2-scala in 1.71s
+ao鹴 14, 2025 11:18:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 4857
+ao鹴 14, 2025 11:18:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 4921
+ao鹴 14, 2025 11:19:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 5117
+ao鹴 14, 2025 11:19:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 5141
+ao鹴 14, 2025 11:19:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 5232
+ao鹴 14, 2025 11:19:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 5244
+2025.08.14 11:21:10 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 11:21:12 INFO  time: compiled tp2-scala in 1.59s
+ao鹴 14, 2025 11:30:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 5421
+2025.08.14 11:30:58 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 11:31:00 INFO  time: compiled tp2-scala in 1.39s
+ao鹴 14, 2025 11:39:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 5874
+ao鹴 14, 2025 11:39:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 5930
+ao鹴 14, 2025 11:39:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 5978
+2025.08.14 11:39:20 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 11:39:21 INFO  time: compiled tp2-scala in 1.61s
+2025.08.14 11:40:30 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 11:40:32 INFO  time: compiled tp2-scala in 1.39s
+ao鹴 14, 2025 11:44:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 6440
+ao鹴 14, 2025 11:45:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 6508
+ao鹴 14, 2025 11:45:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 6511
+2025.08.14 11:47:48 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 11:47:49 INFO  time: compiled tp2-scala in 1.63s
+ao鹴 14, 2025 11:49:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 6966
+ao鹴 14, 2025 11:49:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7004
+ao鹴 14, 2025 11:49:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7005
+ao鹴 14, 2025 11:49:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7008
+ao鹴 14, 2025 11:49:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7011
+ao鹴 14, 2025 11:49:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7013
+2025.08.14 11:49:28 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 11:49:29 INFO  time: compiled tp2-scala in 1.63s
+ao鹴 14, 2025 11:49:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7131
+ao鹴 14, 2025 11:49:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7132
+ao鹴 14, 2025 11:49:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7136
+ao鹴 14, 2025 11:49:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7199
+2025.08.14 11:49:56 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 11:49:58 INFO  time: compiled tp2-scala in 1.73s
+ao鹴 14, 2025 11:50:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7281
+ao鹴 14, 2025 11:50:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7320
+2025.08.14 11:58:27 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 11:58:29 INFO  time: compiled tp2-scala in 1.81s
+2025.08.14 12:00:34 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 12:00:36 INFO  time: compiled tp2-scala in 1.84s
+ao鹴 14, 2025 12:01:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7756
+2025.08.14 12:01:37 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 12:01:39 INFO  time: compiled tp2-scala in 1.65s
+2025.08.14 12:03:35 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 12:03:37 INFO  time: compiled tp2-scala in 1.57s
+2025.08.14 12:04:08 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 12:04:09 INFO  time: compiled tp2-scala in 1.44s
+ao鹴 14, 2025 12:08:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 8246
+2025.08.14 14:28:35 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 14:28:36 INFO  time: compiled tp2-scala in 1.35s
+2025.08.14 14:29:46 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 14:29:46 INFO  time: compiled tp2-scala in 0.69s
+2025.08.14 14:29:46 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 14:29:48 INFO  time: compiled tp2-scala in 0.73s
+2025.08.14 14:29:48 INFO  compiling tp2-scala (2 scala sources)
+2025.08.14 14:29:48 INFO  time: compiled tp2-scala in 0.21s
+2025.08.14 14:30:24 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 14:30:24 INFO  time: compiled tp2-scala in 0.77s
+2025.08.14 14:30:27 INFO  compiling tp2-scala (2 scala sources)
+2025.08.14 14:30:29 INFO  time: compiled tp2-scala in 1.27s
+2025.08.14 14:30:40 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 14:30:40 INFO  time: compiled tp2-scala in 0.56s
+2025.08.14 14:30:56 INFO  compiling tp2-scala (3 scala sources)
+2025.08.14 14:30:56 INFO  time: compiled tp2-scala in 0.11s
+2025.08.14 14:30:58 INFO  compiling tp2-scala (3 scala sources)
+2025.08.14 14:30:59 INFO  time: compiled tp2-scala in 1.2s
+2025.08.14 14:31:10 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 14:31:10 INFO  time: compiled tp2-scala in 0.38s
+2025.08.14 14:31:22 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 14:31:22 INFO  time: compiled tp2-scala in 0.69s
+2025.08.14 14:31:24 INFO  compiling tp2-scala (2 scala sources)
+2025.08.14 14:31:24 INFO  time: compiled tp2-scala in 0.64s
+2025.08.14 14:31:33 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 14:31:33 INFO  time: compiled tp2-scala in 0.39s
+ao鹴 14, 2025 2:31:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 8797
+2025.08.14 14:31:43 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 14:31:43 INFO  time: compiled tp2-scala in 0.67s
+2025.08.14 14:31:52 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 14:31:52 INFO  time: compiled tp2-scala in 0.35s
+2025.08.14 14:31:52 INFO  compiling tp2-scala (2 scala sources)
+2025.08.14 14:31:52 INFO  time: compiled tp2-scala in 32ms
+2025.08.14 14:32:08 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 14:32:08 INFO  time: compiled tp2-scala in 0.81s
+2025.08.14 14:32:08 INFO  compiling tp2-scala (3 scala sources)
+2025.08.14 14:32:08 INFO  time: compiled tp2-scala in 65ms
+2025.08.14 14:32:15 INFO  compiling tp2-scala (2 scala sources)
+2025.08.14 14:32:15 INFO  time: compiled tp2-scala in 0.89s
+2025.08.14 14:32:15 INFO  compiling tp2-scala (3 scala sources)
+2025.08.14 14:32:15 INFO  time: compiled tp2-scala in 67ms
+2025.08.14 14:32:25 INFO  compiling tp2-scala (7 scala sources)
+2025.08.14 14:32:25 INFO  time: compiled tp2-scala in 0.21s
+2025.08.14 14:32:27 INFO  compiling tp2-scala (7 scala sources)
+2025.08.14 14:32:28 INFO  time: compiled tp2-scala in 1.27s
+2025.08.14 14:41:47 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 14:41:47 INFO  time: compiled tp2-scala in 0.46s
+2025.08.14 14:41:54 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 14:41:54 INFO  time: compiled tp2-scala in 0.74s
+2025.08.14 14:41:58 INFO  compiling tp2-scala (2 scala sources)
+2025.08.14 14:41:58 INFO  time: compiled tp2-scala in 0.87s
+ao鹴 14, 2025 2:48:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 9239
+2025.08.14 14:53:58 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 14:53:58 INFO  time: compiled tp2-scala in 0.98s
+2025.08.14 14:58:00 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 14:58:00 INFO  time: compiled tp2-scala in 0.95s
+ao鹴 14, 2025 3:01:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 9728
+2025.08.14 15:12:29 INFO  compiling tp2-scala (1 scala source)
+2025.08.14 15:12:29 INFO  time: compiled tp2-scala in 0.8s
